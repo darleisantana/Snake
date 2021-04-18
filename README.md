@@ -6,3 +6,4 @@
 * Criação da condição para não sumir quando chegar a borda;
 * Comidinha da cobrinha concluida;
 * Criação da condição de crescer quando a comidinha é comida;
+* Jogo concluido!
