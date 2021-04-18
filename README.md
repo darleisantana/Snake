@@ -4,3 +4,4 @@
 * Criação da cobrinha com a função "Criarcobrinha" e o vetor snake;
 * Criação do Movimento da cobrinha;
 * Criação da condição para não sumir quando chegar a borda;
+* Comidinha da cobrinha concluida;
