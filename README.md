@@ -17,6 +17,9 @@ This is a simple implementation of the classic Snake game. The snake moves aroun
 5. Avoid hitting the walls or colliding with the snake's body.
 6. Try to achieve the highest score possible!
 
+## Play the Game
+You can play the game online by accessing the following link: [Snake Game](https://darleysantana.github.io/Snake/)
+
 ## Credits
 This Snake game was developed by Darlei Santana.
 
